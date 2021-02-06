@@ -1,0 +1,16 @@
+{
+  "name": "bihashara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tonclient/core": "^1.6.1",
+    "@tonclient/lib-node": "^1.6.3",
+    "ton-client-node-js": "^0.28.0"
+  }
+}
